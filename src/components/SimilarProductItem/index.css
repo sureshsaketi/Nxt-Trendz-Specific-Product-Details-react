@@ -1,0 +1,31 @@
+.similar-product {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.similar-product-image {
+  width: 250px;
+  border-radius: 8px;
+}
+.product-tile {
+  color: #1e293b;
+  font-family: 'roboto';
+  font-size: 22px;
+}
+.similar-product-brand {
+  font-family: 'roboto';
+  font-size: 22px;
+  color: #616e7c;
+  font-weight: 400;
+}
+.price-and-rating {
+  display: flex;
+  width: 250px;
+  align-items: center;
+  justify-content: space-between;
+}
+.similar-product-price {
+  font-family: 'roboto';
+  font-size: 22px;
+  font-weight: bold;
+  color: #171f46;
+}
